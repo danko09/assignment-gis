@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+            
+#map-one { position: absolute; top:0; right:0; bottom:0; width:70%; border-style: solid;}
+#menu { position:absolute; top:50px; bottom:0; left:50px; width:80%}
+
+
+.top50{
+  margin-top: 50px;
+}
+
+.top20{
+  margin-top: 20px;
+}
+
+.top10{
+  margin-top: 10px;
+}
+
+.top5{
+  margin-top: 5px;
+}
+
+.cont{
+  margin-left:50px;
+  margin-right:50px;
+}
