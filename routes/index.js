@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var pg = require('pg');
-var connString = 'pg://postgres:GranFan9438dl@localhost:5432/tatry_db';
+var connString = 'pg://postgres:@localhost:5432/tatry_db';
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
